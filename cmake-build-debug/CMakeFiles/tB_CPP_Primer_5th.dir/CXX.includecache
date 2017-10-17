@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/foxman/Documents/gitworkspace/tB_CPP_Primer_5th/Sales_items.h
+iostream
+-
+string
+-
+
+/Users/foxman/Documents/gitworkspace/tB_CPP_Primer_5th/main.cpp
+iostream
+-
+Sales_items.h
+/Users/foxman/Documents/gitworkspace/tB_CPP_Primer_5th/Sales_items.h
+

@@ -1,0 +1,3 @@
+/Users/foxman/Documents/gitworkspace/tB_CPP_Primer_5th/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/foxman/Documents/gitworkspace/tB_CPP_Primer_5th/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/foxman/Documents/gitworkspace/tB_CPP_Primer_5th/cmake-build-debug/CMakeFiles/tB_CPP_Primer_5th.dir
