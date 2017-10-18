@@ -1,3 +1,7 @@
+//
+// Created by FOXMAN on 10/19/17.
+//
+
 #include <iostream>
 using namespace std;
 
@@ -14,4 +18,3 @@ int main() {
     }
     return 0;
 }
-
