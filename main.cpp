@@ -1,17 +1,27 @@
 #include <iostream>
+
 using namespace std;
 
 int main() {
+    int d = 3;
+    int *pd = 0;
+    void *pv;
 
-    int y;
-    cout << "Please entry one number" << endl;
-    cin >> y;
-    for(int i{1}; i <= y; ++i){
-        for(int j{1}; j<= i; ++j){
-            cout << i * j << " = " << i << " * " << j << " \t";
-        }
-        cout << endl;
-    }
+    pd = &d;
+    pv = &d;
+
+    cout << *pd << endl;
+
+    *pd = 42;
+
+    cout << *pd << endl;
+
+    cout << d << endl;
+
+    cout << pv << endl;
+
+    cout << &pv << endl;
+
     return 0;
 }
 
